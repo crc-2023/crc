@@ -1,3 +1,0 @@
-.about-page { color:var(--moon-100); }
-.about-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px; margin-top:16px; }
-.card-block { background:linear-gradient(180deg, rgba(255,255,255,0.02), transparent); padding:14px; border-radius:10px; box-shadow:0 6px 18px rgba(3,8,20,0.4); }

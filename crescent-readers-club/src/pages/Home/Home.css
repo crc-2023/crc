@@ -1,3 +1,0 @@
-.home-page .section { margin: 28px 0; }
-.section h2 { color:var(--moon-50); margin-bottom:12px; }
-.grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(260px,1fr)); gap:14px; }
